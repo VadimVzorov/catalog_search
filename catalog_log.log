@@ -1,0 +1,412 @@
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'0001'; description:'it is a pen'
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen1'; id:'0001'; description:'it is a pen'
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen1'; id:'0001'; description:'it is a pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen3'; id:'0001'; description:'it is a pen'
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen4'; id:'0001'; description:'it is a pen'
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen5'; id:'0001'; description:'it is a pen'
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'P'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'P'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+INFO:root:Storing item was not successful, trying to update existing item
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+INFO:root:Storing item was not successful, trying to update existing item
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+INFO:root:Storing item was not successful, trying to update existing item
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+INFO:root:Storing item was not successful, trying to update existing item
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+INFO:root:Storing item was not successful, trying to update existing item
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Storing catalog item with name:'Pen'; id:'123'; description:'description'
+INFO:root:Storing item was not successful, trying to update existing item
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Ball'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Ball'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Ball'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Storing catalog item with name:'Pen4'; id:'123'; description:'it is a pen'
+INFO:root:Storing item was not successful, trying to update existing item
+INFO:root:Catalog item is now stored
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+INFO:root:Getting item with the name:'Pen'
+INFO:root:Item %s is retrived from catalog
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connection to PostgreSQL established
+INFO:root:Constructing parser
+INFO:root:Constructing 'put' subparser
+INFO:root:Constructing 'get' subparser
+INFO:root:Constructing 'search' subparser
